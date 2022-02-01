@@ -1,0 +1,14 @@
+C:\kushal\24 b prgm\24 b prgm\bin\Debug\netcoreapp3.1\24 b prgm.exe
+C:\kushal\24 b prgm\24 b prgm\bin\Debug\netcoreapp3.1\24 b prgm.deps.json
+C:\kushal\24 b prgm\24 b prgm\bin\Debug\netcoreapp3.1\24 b prgm.runtimeconfig.json
+C:\kushal\24 b prgm\24 b prgm\bin\Debug\netcoreapp3.1\24 b prgm.runtimeconfig.dev.json
+C:\kushal\24 b prgm\24 b prgm\bin\Debug\netcoreapp3.1\24 b prgm.dll
+C:\kushal\24 b prgm\24 b prgm\bin\Debug\netcoreapp3.1\24 b prgm.pdb
+C:\kushal\24 b prgm\24 b prgm\obj\Debug\netcoreapp3.1\24 b prgm.csproj.AssemblyReference.cache
+C:\kushal\24 b prgm\24 b prgm\obj\Debug\netcoreapp3.1\24 b prgm.GeneratedMSBuildEditorConfig.editorconfig
+C:\kushal\24 b prgm\24 b prgm\obj\Debug\netcoreapp3.1\24 b prgm.AssemblyInfoInputs.cache
+C:\kushal\24 b prgm\24 b prgm\obj\Debug\netcoreapp3.1\24 b prgm.AssemblyInfo.cs
+C:\kushal\24 b prgm\24 b prgm\obj\Debug\netcoreapp3.1\24 b prgm.csproj.CoreCompileInputs.cache
+C:\kushal\24 b prgm\24 b prgm\obj\Debug\netcoreapp3.1\24 b prgm.dll
+C:\kushal\24 b prgm\24 b prgm\obj\Debug\netcoreapp3.1\24 b prgm.pdb
+C:\kushal\24 b prgm\24 b prgm\obj\Debug\netcoreapp3.1\24 b prgm.genruntimeconfig.cache
